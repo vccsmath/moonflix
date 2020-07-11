@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moonflix/static/css/main.b1d8055b.chunk.css",
+    "main.js": "/moonflix/static/js/main.a2f98f48.chunk.js",
+    "main.js.map": "/moonflix/static/js/main.a2f98f48.chunk.js.map",
+    "runtime-main.js": "/moonflix/static/js/runtime-main.268efc3c.js",
+    "runtime-main.js.map": "/moonflix/static/js/runtime-main.268efc3c.js.map",
+    "static/js/2.6e248bee.chunk.js": "/moonflix/static/js/2.6e248bee.chunk.js",
+    "static/js/2.6e248bee.chunk.js.map": "/moonflix/static/js/2.6e248bee.chunk.js.map",
+    "index.html": "/moonflix/index.html",
+    "precache-manifest.2230869d65305b91a2904003376a167a.js": "/moonflix/precache-manifest.2230869d65305b91a2904003376a167a.js",
+    "service-worker.js": "/moonflix/service-worker.js",
+    "static/css/main.b1d8055b.chunk.css.map": "/moonflix/static/css/main.b1d8055b.chunk.css.map",
+    "static/js/2.6e248bee.chunk.js.LICENSE.txt": "/moonflix/static/js/2.6e248bee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.268efc3c.js",
+    "static/js/2.6e248bee.chunk.js",
+    "static/css/main.b1d8055b.chunk.css",
+    "static/js/main.a2f98f48.chunk.js"
+  ]
+}
